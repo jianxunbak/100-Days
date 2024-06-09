@@ -2,6 +2,7 @@
 Following Angela Yu's course on coding with Python
 
 <details open>
-  <summary>Day 1</summary>
+  <summary>Beginner</summary>
+  Day one : Working with Variables in Python
   
 </details>
