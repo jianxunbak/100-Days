@@ -2,60 +2,60 @@
   <p align = center>Following Angela Yu's course on coding with Python</p>
   <p align = center> Start date: 9 March 2024</p>
 
+<h2>Contents</h2>
 <details open>
-  <summary><h2>Beginner</h2></summary>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 1: Working with variables in Python</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 2: Understanding data types and manipulating strings</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 3: Control flow and logical operations</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 4: Randomisation and python list</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 5: Python loops</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 6: Python functions and karel</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 7: Hangman</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 8: Function parameters and caesar cipher</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 9: Dictionary, nesting and the secret auction</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 10: Functions with outputs</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 11: The blackjack capstone project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 12: Scope and number guessing game</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 13: How to find and fix errors in your code</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 14: Higher lower game project</a></h3>
+  <summary><h3>Beginner</h3></summary>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 1: Working with variables in Python</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/c07305141db60af31853698664ede7fb8c257d3a/100%20Days/Day%202">Day 2: Understanding data types and manipulating strings</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%203">Day 3: Control flow and logical operations</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%204">Day 4: Randomisation and python list</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%205">Day 5: Python loops</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%206">Day 6: Python functions and karel</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%207">Day 7: Hangman</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%208">Day 8: Function parameters and caesar cipher</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%209">Day 9: Dictionary, nesting and the secret auction</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2010">Day 10: Functions with outputs</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2011">Day 11: The blackjack capstone project</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2012">Day 12: Scope and number guessing game</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2013">Day 13: How to find and fix errors in your code</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2014">Day 14: Higher lower game project</a></h4>
 </details>
 
 <details open>
-  <summary><h2>Intermediate </h2></summary>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 15: Working with variables in Python</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 16: Understanding data types and manipulating strings</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 17: Control flow and logical operations</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 18: Randomisation and python list</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 19: Python loops</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 20: Python functions and karel</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 21: Hangman</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 22: Function parameters and caesar cipher</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 23: Dictionary, nesting and the secret auction</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 24: Functions with outputs</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 25: The blackjack capstone project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 26: Scope and number guessing game</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 27: How to find and fix errors in your code</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 28: Higher lower game project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 29: Working with variables in Python</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 30: Understanding data types and manipulating strings</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 31: Control flow and logical operations</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 32: Randomisation and python list</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 33: Python loops</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 34: Python functions and karel</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 35: Hangman</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 36: Function parameters and caesar cipher</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 37: Dictionary, nesting and the secret auction</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 38: Functions with outputs</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 41: The blackjack capstone project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 42: Scope and number guessing game</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 43: How to find and fix errors in your code</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 44: Higher lower game project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 45: Function parameters and caesar cipher</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 46: Dictionary, nesting and the secret auction</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 47: Functions with outputs</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 48: The blackjack capstone project</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 49: Scope and number guessing game</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 50: How to find and fix errors in your code</a></h3>
-<h3 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 51: Higher lower game project</a></h3>
-
+  <summary><h3>Intermediate </h3></summary>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2015">Day 15: Local development environment setup and the coffee machine</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2016">Day 16: Object orientated programming (OOP)</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2017">Day 17: The quiz project and benefits of OOP</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2018">Day 18: Turtle and graphical user interface (GUI)</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2019">Day 19: Instances, state, higher order functions</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2020">Day 20: Build the snake game part 1: animations and coordinates</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2021">Day 21: Build the snake game part 2: inheritance and list slicing</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2022">Day 22: Build pong, the famous arcade game</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2023">Day 23: Turtle crossing capstone project</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2024">Day 24: Files, directories and paths</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2025">Day 25: Working with CSV data and Pandas library</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2026">Day 26: List comprehension and NATO alphabet</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2027">Day 27: Tkinter, *args, *kwargs, and creating GUI program</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2028">Day 28: TKinter, dynamic typing and the pomodoro GUI application</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2029">Day 29: Building a password manager GUI app with Tkinter</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2030">Day 30: Errors, exceptions and JSON data: improving the password</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2031">Day 31: Flashcard app capstone project</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2032">Day 32: Send email (smtplib) and manage dates (datetime)</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2033">Day 33: API endpoints and API parameters: ISS overhead notifier</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2034">Day 34: API practise: creating a GUI quiz app</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2035">Day 35: Keys, athentication and environmental variables: send SMS</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2036">Day 36: Stock trading news alert project</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2037">Day 37: Habit tracking project: API post requests and headers</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2038">Day 38: Workout tracking using google sheets</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2041">Day 41: Web foundation: introduction to HTML</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2042">Day 42: Web foundation: intermediate HTML</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2043">Day 43: Web foundation: introduction to CSS</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2044">Day 44: Web foundation: intermediate CSS</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2045">Day 45: Web scrapping with Beautiful Soup</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2046">Day 46: Creating a Spotify playlist using the musical time machine</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2047">Day 47: Create a automated Amazon price checker</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2048">Day 48: Selenium webdriver browser and game playing bot</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2049">Day 49: Automating job applications on linkedin</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2050">Day 50: Auto Tinder swipping bot</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2051">Day 51: Internet speed twitter complain bot</a></h4>
 </details>
