@@ -1,6 +1,6 @@
-<h1 align = "center">100 DAYS OF CODE</h1>
-  <p align = "center">Following Angela Yu's course on coding with Python</p>
-  <p align = "center"> Start date: 9 March 2024</p>
+<h1 align = center>100 DAYS OF CODE</h1>
+  <p align = center>Following Angela Yu's course on coding with Python</p>
+  <p align = center> Start date: 9 March 2024</p>
 
 <details open>
   <summary><h2>Beginner</h2></summary>
