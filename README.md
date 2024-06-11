@@ -59,4 +59,5 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2050">Day 50: Auto Tinder swipping bot</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2051">Day 51: Internet speed twitter complain bot</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/2bbfe2c152f3fbdb36bc42b588b0e120bd498b69/100%20Days/Day%2052">Day 52: Instagram follower bot</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/2bbfe2c152f3fbdb36bc42b588b0e120bd498b69/100%20Days/Day%2053">Day 53: Web Scraping Capstone - Data Entry Job Automation</a></h4>
 </details>
