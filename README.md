@@ -60,4 +60,7 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2051">Day 51: Internet speed twitter complain bot</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/2bbfe2c152f3fbdb36bc42b588b0e120bd498b69/100%20Days/Day%2052">Day 52: Instagram follower bot</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/0efbc2ade4ddad29dc7b61f92169039a63c3b43e/100%20Days/Day%2053">Day 53: Web Scraping Capstone - Data Entry Job Automation</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/0bfd14ccd69776cfba5cf1df84d09186587e9eda/100%20Days/Day%2055">Day 54 and 55: HTML & URL Parsing in Flask and the Higher Lower Game</a></h4>
 </details>
+
+
