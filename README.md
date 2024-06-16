@@ -68,4 +68,5 @@
 <details open>
 <summary><h3>Advance</h3></summary> 
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/8e09f409a87a0f1757e7495ea4821d4cf1de7027/100%20Days/Day%2058">Day 58: Web Foundation Bootstrap</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/f8b2b48373152a1bbb84d49fbc34238e1d63e6a2/100%20Days/Day%2059">Day 59: Blog Capstone Project Part 2 - Adding Styling</a></h4>
 </details>
