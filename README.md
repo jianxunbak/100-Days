@@ -4,7 +4,7 @@
 
 <h2>Contents</h2>
 <details open>
-  <summary><h3>Beginner</h3></summary>
+<summary><h3>Beginner</h3></summary>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%201">Day 1: Working with variables in Python</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/c07305141db60af31853698664ede7fb8c257d3a/100%20Days/Day%202">Day 2: Understanding data types and manipulating strings</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%203">Day 3: Control flow and logical operations</a></h4>
@@ -22,7 +22,7 @@
 </details>
 
 <details open>
-  <summary><h3>Intermediate </h3></summary>
+<summary><h3>Intermediate </h3></summary>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2015">Day 15: Local development environment setup and the coffee machine</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2016">Day 16: Object orientated programming (OOP)</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/jianxun/tree/09bdc1a0c58e02ddcf850dc0c6bf03ca324b6e70/100%20Days/Day%2017">Day 17: The quiz project and benefits of OOP</a></h4>
@@ -63,6 +63,9 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/0bfd14ccd69776cfba5cf1df84d09186587e9eda/100%20Days/Day%2055">Day 54 and 55: HTML & URL Parsing in Flask and the Higher Lower Game</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/f10947487b2ecdfe7e11d8fd585e1196a587bbad/100%20Days/Day%2056">Day 56: Rendering HTML/Static files and Using Website Templates</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/49944cf852d07c13151f3765ca8b82934a7c8171/100%20Days/Day%2057">Day 57: Templating with Jinja in Flask Applications</a></h4>
-<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/8e09f409a87a0f1757e7495ea4821d4cf1de7027/100%20Days/Day%2058">Day 58: Web Foundation Bootstrap</a></h4>
+  </details>
 
+<details open>
+<summary><h3>Advance</h3></summary> 
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/8e09f409a87a0f1757e7495ea4821d4cf1de7027/100%20Days/Day%2058">Day 58: Web Foundation Bootstrap</a></h4>
 </details>
