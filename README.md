@@ -70,4 +70,6 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/8e09f409a87a0f1757e7495ea4821d4cf1de7027/100%20Days/Day%2058">Day 58: Web Foundation Bootstrap</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/f8b2b48373152a1bbb84d49fbc34238e1d63e6a2/100%20Days/Day%2059">Day 59: Blog Capstone Project Part 2 - Adding Styling</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/04b47f210acebc49d8ba6897fd80df09ef110aa9/100%20Days/Day%2060">Day 60: Make POST Requests with Flask and HTML Forms</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/9d3a4e5bcfa1e44cd84d20857f11ada755d1a49d/100%20Days/day%2061">Day 61: Building advance forms with Flask WTForms </a></h4>
+
 </details>
