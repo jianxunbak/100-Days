@@ -75,7 +75,7 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/9b882bb75764891b9ba2bc7c887833484cffc363/100%20Days/Day%2063">Day 63: Databases and with SQLite and SQLAlchemy </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/5bcd4e350602ea20df72ee4184aceccf38a94569/100%20Days/Day%2064">Day 64: My Top 10 Movies Website </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/e4d533c1a69f5755c7e18282bd2bc41a3bfcc88f/100%20Days/Day%2066">Day 66: Building Your Own API with RESTful Routing </a></h4>
-
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/b1fad437652f9cec6c0890798298a534827afe2f/100%20Days/Day%2067">Day 67: Blog Capstone Project Part 3 - RESTful Routing </a></h4>
 </details>
 
 
