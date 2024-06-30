@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="box">
+  <h1>Flask Authentication</h1>
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      {% for category, message in messages %}
+        <p style= "color:red" class="{{ category }}">{{ message }}</p>
+      {% endfor %}
+    {% endif %}
+  {% endwith %}
+  <!-- TODO: Hide the Login/Registration buttons for logged-in users -->
+  <a href="{{ url_for('login') }}" class="btn btn-primary btn-block btn-large"
+    >Login</a
+  >
+  <a
+    href="{{ url_for('register') }}"
+    class="btn btn-secondary btn-block btn-large"
+    >Register</a
+  >
+</div>
+
+{% endblock %}
