@@ -77,7 +77,6 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/e4d533c1a69f5755c7e18282bd2bc41a3bfcc88f/100%20Days/Day%2066">Day 66: Building Your Own API with RESTful Routing </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/b1fad437652f9cec6c0890798298a534827afe2f/100%20Days/Day%2067">Day 67: Blog Capstone Project Part 3 - RESTful Routing </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/617083ac822e2be525480b18542166d71f8b704d/100%20Days/Day%2068">Day 68: Authentication with Flask </a></h4>
-
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/ee4d525f48f179335514e0bc49068021ef995d4f/100%20Days/Day%2069">Day 69: Blog Capstone Project Part 4 - Adding Users </a></h4>
 </details>
-
 
