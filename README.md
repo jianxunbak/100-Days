@@ -80,4 +80,5 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/ee4d525f48f179335514e0bc49068021ef995d4f/100%20Days/Day%2069">Day 69: Blog Capstone Project Part 4 - Adding Users </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/14c14f278108a663ac19ab2736455d6a5cf6c1bb/100%20Days/Day%2072">Day 72: Data Exploration with Pandas: College Major v.s. Your Salary </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/2820636b97e4384a673b153d7a192de096fa05c8/100%20Days/Day%2073">Day 73: Data Visualisation with Matplotlib: Programming Languages </a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/12a795fdb6462e9da3135d57ff0263f6b21a67da/100%20Days/Day%2074">Day 74: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset </a></h4>
 </details>
