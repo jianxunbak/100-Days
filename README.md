@@ -82,4 +82,6 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/2820636b97e4384a673b153d7a192de096fa05c8/100%20Days/Day%2073">Day 73: Data Visualisation with Matplotlib: Programming Languages </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/12a795fdb6462e9da3135d57ff0263f6b21a67da/100%20Days/Day%2074">Day 74: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/96e457ae59ad8bcef5d8345cb3583c2fd3e0c2ef/100%20Days/Day%2075">Day 75: Google Trends Data: Resampling and Visualising Time Series </a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/df9ec4b86f0cd405314fd392256d32af04f5201c/100%20Days/Day%2076">Day 76: Beautiful Plotly Charts & Analysing the Android App Store </a></h4>
 </details>
+
