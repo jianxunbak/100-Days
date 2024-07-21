@@ -84,5 +84,6 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/96e457ae59ad8bcef5d8345cb3583c2fd3e0c2ef/100%20Days/Day%2075">Day 75: Google Trends Data: Resampling and Visualising Time Series </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/df9ec4b86f0cd405314fd392256d32af04f5201c/100%20Days/Day%2076">Day 76: Beautiful Plotly Charts & Analysing the Android App Store </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/dca89cb09dd3daef7a53e7c4d2bb06e9cdbc35ae/100%20Days/Day%2077">Day 77: Computation with NumPy and N-Dimensional Arrays </a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/677c3a565e759bdff9da38414128740902d88780/100%20Days/Day%2078">Day 78: Computation with NumPy and N-Dimensional Arrays </a></h4>
 </details>
 
