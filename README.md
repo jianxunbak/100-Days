@@ -90,6 +90,7 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/0e3a7ac7f29fdb09ae5ee36dd5cdc7697d461a2a/100%20Days/Day%2081">Day 81: Capstone Project - Predict House Prices </a></h4>
 </details>
 
-<details open>Professional</h3></summary>
+<details open>
+</summary><h3>Professional</h3></summary>
 <h4> Coming Soon! </h4>
 </details>
