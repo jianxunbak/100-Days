@@ -91,10 +91,6 @@
 </details>
 
 <details open>
-<summary><h3>Advance</h3></summary> 
-</details>
-
-<details open>
-</summary><h3>Professional</h3></summary>
+<summary><h3>Professional</h3></summary>
 <h4> Coming Soon! </h4>
 </details>
