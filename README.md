@@ -87,4 +87,5 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/677c3a565e759bdff9da38414128740902d88780/100%20Days/Day%2078">Day 78: Computation with NumPy and N-Dimensional Arrays </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/27c1227a67a636a0cbc40674eb92d6f0804550e8/100%20Days/Day%2079">Day 79: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/f627d2a6e9a25d96621b93a022f66afc92d37e3b/100%20Days/Day%2080">Day 80: The Tragic Discovery of Handwashing: t-Tests & Distributions </a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/0e3a7ac7f29fdb09ae5ee36dd5cdc7697d461a2a/100%20Days/Day%2081">Day 81: Capstone Project - Predict House Prices </a></h4>
 </details>
