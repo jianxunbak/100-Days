@@ -92,5 +92,5 @@
 
 <details open>
 <summary><h3>Professional</h3></summary>
-<h4> Coming Soon! </h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/86c3551b28b5ace99ff2dd4e7780d88b27b17e0f/100%20Days/Day%2082">Day 82: Text to Morse code converter </a></h4>
 </details>
