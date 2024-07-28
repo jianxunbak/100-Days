@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    background-image: url('https://wallpapers.com/images/hd/pastel-ombre-dukq8acvhr2yjlfr.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1); /* Adjust the opacity here */
+    z-index: -1;
+    }
+
+.cover-container .nav-link {
+    color: white;
+    }
+
+.cover-container .nav-link.active {
+    color: white;
+    background-color: #A66D89;
+    }
+
+.feature-background ul {
+    list-style: none;
+    }
+
+.feature-background li {
+    font-weight: normal;
+    font-size: 1rem;
+    }
