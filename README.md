@@ -96,4 +96,5 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/3d28726c05cfae7d0b46a6552274eb1fe2607ff4/100%20Days/Day%2083">Day 83: Portfolio Website </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/c9b58d4c3b735a3da51be141651c7aba41725ad6/100%20Days/Day%2084">Day 84: Tic Tac Toe </a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/916b1865ea3dc02d387e392a12cd990110283751/100%20Days/Day%2085">Day 85: Image watermarking app</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/e4dccef47e2aa50532998b3c4722cc75e2a43b8c/100%20Days/Day%2086">Day 86: Typing speed test</a></h4>
 </details>
