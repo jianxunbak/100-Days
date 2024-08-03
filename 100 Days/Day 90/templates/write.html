@@ -1,0 +1,50 @@
+{% include "header.html" %}
+{{ bootstrap.load_css() }}
+{% from 'bootstrap5/form.html' import render_form %}
+
+<body>
+<div class="p-3 editor-container">
+    <form method="POST" action="{{ url_for('write') }}">
+        {{ render_form(form) }}
+    </form>
+    <div class="text-danger" id="countdownDisplay"></div>
+
+</div>
+    <script>
+        let typingTimer;
+        const typingDelay = 5000;
+        const textarea = document.getElementById('textarea');
+        const title = document.getElementById('title');
+
+        function updateCountdownDisplay(seconds) {
+            countdownDisplay.textContent = `Clearing in ${seconds} seconds...`;
+        }
+
+        function startCountdown() {
+            let remainingTime = typingDelay / 1000;
+            countdownDisplay.style.display = 'block';
+
+            const countdownInterval = setInterval(() => {
+                remainingTime--;
+                updateCountdownDisplay(remainingTime);
+
+                if (remainingTime <= 0) {
+                    clearInterval(countdownInterval);
+                    countdownDisplay.style.display = 'none';
+                    textarea.value = '';
+                    title.value = '';
+                }
+            }, 1000);
+        }
+
+        textarea.addEventListener('input', function() {
+            clearTimeout(typingTimer);
+            countdownDisplay.style.display = 'none';
+            typingTimer = setTimeout(() => {
+                startCountdown();
+            }, typingDelay);
+        });
+    </script>
+</body>
+{{ bootstrap.load_js() }}
+{% include "footer.html" %}
