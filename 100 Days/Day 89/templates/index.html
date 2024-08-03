@@ -1,0 +1,41 @@
+{% include "header.html" %}
+
+<body>
+     <div class="d-flex">
+        <!-- Sidebar -->
+       {% include "sidebar.html" %}
+
+        <!-- Main Content -->
+        <div class="flex-grow-1 p-3">
+            {% for list_id, to_do in grouped_todos.items() %}
+            <div class="list-group mb-4">
+                <h2>{{ list_names[list_id] }}</h2>
+                {% for items in to_do %}
+                <form method="POST" action="{{ url_for('update_status', id=items.id) }}">
+                    <input type="hidden" name="_csrf_token" value="{{ csrf_token() }}">
+                    <label class="list-group-item d-flex gap-3 p-3">
+                        <span class="pt-1 form-checked-content">
+                            <strong>{{items.title}}</strong>
+                            <p>{{ items.to_to|replace('<p></p>', '')|safe }}</p>
+                            <small class="d-block text-body-secondary">
+                                <span class="pt-1 form-checked-content">
+                                    <p>Due Date: {{items.date.strftime('%d-%m-%Y')}}</p>
+                                    <p>Due Time: {{items.time.strftime('%I:%M %p')}}</p>
+                                    <span class="badge bg-secondary">{{ items.list.name }}</span>
+                                    <span class="badge bg-warning">
+                                        <a class ="link-dark" href="#" onclick="deleteTodo({{ items.id }})">Delete</a>
+                                    </span>
+                                    <span class="badge bg-info">
+                                        <a class="link-dark" href="#" onclick="completed({{ items.id }})">Complete</a>
+                                    </span>
+                                </span>
+                            </small>
+                        </span>
+                    </label>
+                </form>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+{% include "footer.html" %}

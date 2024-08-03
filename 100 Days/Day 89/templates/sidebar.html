@@ -1,0 +1,30 @@
+     <div class="d-flex flex-column flex-shrink-0 p-3 text-bg-dark sidebar" style="width: 280px;">
+            <h2 class="mb-4">To Do List</h2>
+
+            <ul class="nav nav-pills flex-column mb-auto">
+              <li class="nav-item">
+                <a href="{{url_for('home')}}" class="nav-link active" aria-current="page">
+                  <svg class="bi pe-none me-2" width="16" height="16"><use xlink:href="#home"></use></svg>
+                  Show All Task
+                </a>
+              </li>
+              <li>
+                <a href="{{url_for('all_completed_items')}}" class="nav-link text-white">
+                  <svg class="bi pe-none me-2" width="16" height="16"><use xlink:href="#speedometer2"></use></svg>
+                  Completed Task
+                </a>
+              </li>
+              <li>
+                <a href="{{url_for('new_todo')}}" class="nav-link text-white">
+                  <svg class="bi pe-none me-2" width="16" height="16"><use xlink:href="#table"></use></svg>
+                  Add New Task
+                </a>
+              </li>
+              <li>
+                <a href="{{url_for('create_list')}}" class="nav-link text-white">
+                  <svg class="bi pe-none me-2" width="16" height="16"><use xlink:href="#people-circle"></use></svg>
+                  Add New List
+                </a>
+              </li>
+            </ul>
+        </div>

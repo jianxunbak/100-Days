@@ -1,0 +1,26 @@
+{% include "header.html" %}
+{{ bootstrap.load_css() }}
+{% from 'bootstrap5/form.html' import render_form %}
+
+<body>
+<div class="d-flex">
+    <!-- Sidebar -->
+   {% include "sidebar.html" %}
+   <div class="flex-grow-1 p-3">
+       <h2>Add New Task</h2>
+    <div class="flex-column flex-md-row gap-4 py-md-5 align-items-center">
+      <div class="list-group">
+        <label class="list-group-item gap-3 p-3">
+          <form method="POST" action="{{ url_for('new_todo') }}">
+            {{ form.hidden_tag() }}
+            {{ render_form(form) }}
+            {{ ckeditor.load(pkg_type="basic") }}
+            {{ ckeditor.config(name='to_to') }}
+          </form>
+        </label>
+      </div>
+    </div>
+   </div>
+
+{{ bootstrap.load_js() }}
+{% include "footer.html" %}
