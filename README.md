@@ -104,5 +104,6 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/ba23788aac69b2d7d5bd45ffa57edcd43c4330ed/100%20Days/Day%2091">Day 91: Convert PDF to Audiobook</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/50f8486f037396af75a64c1606aa23605190e163/100%20Days/Day%2092">Day 92: Image colour palette generator</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/26929bbd3e888cc794de2b2234127e5bc0793151/100%20Days/Day%2093">Day 93: Custom Web Scraper</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/03d92710891eb498b2f72611ec32936736153b89/100%20Days/Day%2094">Day 94: Automate the google dinosaur game</a></h4>
 </details>
  
