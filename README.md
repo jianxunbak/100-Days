@@ -106,5 +106,5 @@
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/26929bbd3e888cc794de2b2234127e5bc0793151/100%20Days/Day%2093">Day 93: Custom Web Scraper</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/03d92710891eb498b2f72611ec32936736153b89/100%20Days/Day%2094">Day 94: Automate the google dinosaur game</a></h4>
 <h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/73fcef6f7d25adf5fa6d99b53231399ef5a8dcd6/100%20Days/Day%2095">Day 95: Space Invaders</a></h4>
+<h4 style ="display: inline-block"><a href = "https://github.com/jianxunbak/100-Days/tree/b7e43c7a45e90d93900ac4fc99d5a89537ae8dcc/100%20Days/Day%2096">Day 96: Custom API based website</a></h4>
 </details>
- 
