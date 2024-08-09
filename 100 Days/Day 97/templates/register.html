@@ -1,0 +1,33 @@
+{% include "header.html" %}
+
+<main class="content container col-md-6 col-lg-4 col-xl-3 my-5">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          {% for category, message in messages %}
+            <div class="alert alert-{{ 'success' if category == 'success' else 'warning' }}" role="alert">
+              {{ message }}
+            </div>
+          {% endfor %}
+        {% endif %}
+    {% endwith %}
+    <form class="form-signin p-4 border rounded" action="{{ url_for('register') }}" method="post">
+        {{ form.hidden_tag() }}
+      <h1 class="h3 mb-3 fw-normal">Please Register</h1>
+      <div class="form-floating">
+        {{ form.name(type="name", class="form-control", id="floatingInput", placeholder="John", required="required") }}
+        {{ form.name.label(for="floatingInput") }}
+      </div>
+      <div class="form-floating">
+        {{ form.email(type="email", class="form-control", id="floatingInput", placeholder="name@example.com", required="required") }}
+        {{ form.email.label(for="floatingInput") }}
+      </div>
+      <div class="form-floating">
+        {{ form.password(type="password", class="form-control", id="floatingPassword", placeholder="Password", required="required") }}
+        {{ form.password.label(for="floatingPassword") }}
+      </div>
+
+      <button class="btn btn-primary w-100 py-2 my-3" type="submit">Register</button>
+    </form>
+</main>
+
+{% include "footer.html" %}

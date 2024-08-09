@@ -1,0 +1,84 @@
+{% include "header.html" %}
+
+<body>
+<div class="container px-4 py-5">
+<!-- Caroulsel features -->
+    <div id="myCarousel" class="carousel container slide mb-6 col-xl-10 col-xxl-8 px-4" data-bs-ride="carousel">
+        <!-- Carousel Indicators -->
+        <div class="carousel-indicators">
+          {% for item in sales_items %}
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="{{ loop.index0 }}" class="{{ loop.first and 'active' }}" aria-current="{{ loop.first and 'true' }}" aria-label="Slide {{ loop.index }}"></button>
+          {% endfor %}
+        </div>
+
+        <!-- Carousel Inner -->
+        <div class="carousel-inner">
+          {% for items in sales_items %}
+          <div class="carousel-item {{ loop.first and 'active' }}">
+            <div class="card h-100 shadow-lg rounded-4">
+              <div class="card-img-wrapper" style="height: 200px; overflow: hidden;">
+                <img src="{{ items.image_url }}" class="card-img-top img-fluid" alt="{{ items.title }}">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">{{ items.title }}</h5>
+                <p class="card-title">${{ items.cost }}</p>
+
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+
+        <!-- Carousel Controls -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+<!-- Main content -->
+
+    <div class="container col-xl-10 col-xxl-8 px-4 py-5">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            {% for category, message in messages %}
+              <div class="alert alert-{{ 'success' if category == 'success' else 'warning' }}" role="alert">
+                {{ message }}
+              </div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+
+        {% for items in sales_items: %}
+        <div class="row align-items-top g-lg-5 py-5">
+          <div class="col-lg-7 text-center text-lg-start">
+            <img src="{{items.image_url}}" class="d-block mx-lg-auto img-fluid rounded-4 p-2" alt="{{items.title}}" width="700" height="500" loading="lazy">
+          </div>
+          <div class="col-md-10 mx-auto col-lg-5">
+            <h1><a class="link-light link-underline link-underline-opacity-0" href="{{url_for('details', sales_id=items.id)}}">{{items.title}}</a></h1>
+            <hr class="my-3">
+            <p class="mb-3">${{items.cost}}</p>
+            <form class = "p-2 p-md-4 mb-3 rounded-3 bg-body-tertiary" action="/create-checkout-session" method="POST">
+                {{ form.hidden_tag() }}  <!-- This will include the CSRF token -->
+                <input type="hidden" name="product_name" value="{{ items.title }}">
+                <input type="hidden" name="product_cost" value="{{ items.cost }}">
+                <input type="hidden" name="product_image_url" value="{{ items.image_url }}">
+                <div class="form-group mb-3">
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" name="quantity" min="1" value="1" class="form-control">
+                </div>
+                <button class="form-floating mb-3" type="submit" id="checkout-button">Checkout</button>
+            </form>
+            <p class="m-0">Description:</p>
+            <p>{{items.description|safe}}</p>
+          </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</body>
+{% include "footer.html" %}

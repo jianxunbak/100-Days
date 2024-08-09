@@ -1,0 +1,16 @@
+{% include "header.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+<body>
+<main class="content container col-md-6 col-lg-4 col-xl-3 my-5">
+      <form class="p-2 p-md-4 mb-3 rounded-3 bg-body-tertiary" method="POST">
+          <div class="form-floating mb-3">
+            {{ render_form(form) }}
+            {{ ckeditor.load(pkg_type="basic") }}
+            {{ ckeditor.config(name='description') }}
+          </div>
+      </form>
+</main>
+</body>
+
+{% include "footer.html" %}
